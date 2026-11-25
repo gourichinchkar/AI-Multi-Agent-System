@@ -1,0 +1,18 @@
+AI Multi-Agent System - Sample Execution
+
+Input Topic:
+Artificial Intelligence in Healthcare
+
+Workflow:
+1. Coordinator receives the topic.
+2. Research Agent gathers key information.
+3. Coordinator passes the research to Writer Agent.
+4. Writer Agent prepares a structured report.
+5. Final report is displayed and saved as final_report.txt.
+
+Expected Output:
+A report containing:
+- Title
+- Introduction
+- Key Findings
+- Conclusion
